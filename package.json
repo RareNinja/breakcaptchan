@@ -1,0 +1,16 @@
+{
+  "name": "breakcaptchan",
+  "version": "1.0.0",
+  "description": "break-capchan",
+  "type": "module",
+  "main": "breakcaptchan.js",
+  "scripts": {
+    "dev": "node breakcaptchan.js"
+  },
+  "author": "dav.balan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "request": "^2.88.2"
+  }
+}
